@@ -53,7 +53,7 @@
   "devDependencies": {
     "docpad": "6",
     "coffee-script": "~1.6.3",
-    "projectz": "~0.3.11",
+    "projectz": "~0.3.13",
     "rtc-videoproc": "0.7.0",
     "miniview": "1.2.0"
   },
