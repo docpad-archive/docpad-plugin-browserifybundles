@@ -53,8 +53,8 @@
   },
   "devDependencies": {
     "docpad": "6",
-    "coffee-script": "~1.8.0",
-    "projectz": "~0.3.17",
+    "coffee-script": "^1.9.0",
+    "projectz": "^0.3.17",
     "rtc-videoproc": "0.7.0",
     "miniview": "1.2.0"
   },
